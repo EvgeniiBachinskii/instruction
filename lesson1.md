@@ -13,6 +13,8 @@ Git - это одна из реализаций распределённых с�
 
 ![<Reinitialized existing Git repository in C:/Users/Evgeniy/Desktop/new_lesson/.git/>](<1.jpg>)
 
+# новый заголовок
+
 ## Создание коммитов
 
 ### Git add
